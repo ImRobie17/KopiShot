@@ -1,0 +1,40 @@
+header{
+    display: flex;
+    font-size: 1vw;  
+    flex-wrap: wrap;
+}
+nav{
+    margin-left: auto;
+    margin-right: 2vw;
+    display: inline-flex;
+    align-items: center;
+}
+nav li {
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 1vw;
+    color: white;
+    background-color: gray;
+    padding: .5vw;
+}
+nav a {
+    text-decoration: none;
+}
+#chosenTab{
+    background-color: yellowgreen;
+}
+li:hover{
+    background-color: yellowgreen;
+}
+.pageTitle{
+    margin: 1vw;
+    margin-left: 3vw;
+    padding: 1vw;
+    color: white;
+    background-color: gray;
+}
+.mainTitle{
+    font-size: 1.5vw;
+    color: gray;
+    font-weight: 900;
+}

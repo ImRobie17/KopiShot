@@ -1,0 +1,41 @@
+.aboutText{
+    margin-top: 20vh;
+    margin-left: 10vw;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.aboutText .text{
+    text-align: justify;
+    max-width: 600px;
+}
+.aboutImage{
+    scale: 10vw;
+    margin: auto;
+    outline: 3px dotted #1C6EA4;
+    outline-offset: 0px;
+}
+body{
+    background-color: bisque;
+}
+@media screen and (max-width: 1024px) {
+    .aboutText{
+        justify-content: center;
+    }
+    .aboutImage{
+        margin: auto;
+        margin-top: 40px;
+    }
+ }
+
+@media screen and (max-width: 480px) {
+    
+    .aboutText{
+        justify-content: center;
+        max-width: 350px;
+    }
+    .aboutImage{
+        scale: 50%;
+        margin-top: 10px;
+    }
+ }

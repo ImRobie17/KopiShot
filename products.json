@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name":" FRESH BREWED COFFEE",
+        "price": 85,
+        "image": "images/freshBrewedCoffee.jpg",
+        "based": "Caffeinated"
+    },
+    {
+        "id": 2,
+        "name":" EXPRESSO COFFEE",
+        "price": 100,
+        "image": "images/expressoCoffee.png ",
+        "based": "Caffeinated"
+    },
+    {
+        "id": 3,
+        "name":" CHOCOFFEE TREND",
+        "price": 120,
+        "image": "images/chocoffeeTrend.jpg",
+        "based": "Caffeinated"
+    },
+    {
+        "id": 4,
+        "name":" CARAMEL MACCHIATO",
+        "price": 120,
+        "image": "images/caramelMacchiato.jpg",
+        "based": "Caffeinated"
+    },
+    {
+        "id": 5,
+        "name":" COFFEE DESSERT DUO",
+        "price": 99,
+        "image": "images/coffeeDessertDuo.jpg",
+        "based": "Caffeinated"
+    },
+    {
+        "id": 6,
+        "name":" GIGA MILKTEA",
+        "price": 200,
+        "image": "images/gigaMilktea.png",
+        "based": "Non-Caffeinated"
+    },
+    {
+        "id": 7,
+        "name":" ROYAL COFFEE",
+        "price": 199,
+        "image": "images/royalCoffee.png",
+        "based": "Caffeinated"
+    },
+    {
+        "id": 8,
+        "name":" MATCHA",
+        "price": 149,
+        "image": "images/matcha.png",
+        "based": "Non-Caffeinated"
+    }
+]

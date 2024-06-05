@@ -1,0 +1,26 @@
+.homeTitle{
+    margin-top: 20vh;
+    margin-left: 10vw;
+    color: #ffffff;
+}
+body{
+    background-image: url(images/mainBG.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: bisque;
+}
+@media screen and (max-width: 1024px) {
+    .homeTitle{
+        margin-top: 10vh;
+        margin-left: 5vw;
+        color: #ffffff;
+    }
+ }
+
+@media screen and (max-width: 480px) {
+    .homeTitle{
+        margin-top: 5;
+        margin-left: 3vw;
+        color: #ffffff;
+    }
+ }
