@@ -1,14 +1,24 @@
 .homeTitle{
-    margin-top: 20vh;
-    margin-left: 10vw;
+    padding: 20vh 10vw;
     color: #ffffff;
 }
-body{
+main{
     background-image: url(images/mainBG.png);
     background-size: cover;
     background-repeat: no-repeat;
+    
+}
+body{
     background-color: bisque;
 }
+bestSellers{
+    margin: 10px;
+}
+.container{
+    padding-top: 25vh;
+    height: 100vh;
+}
+
 @media screen and (max-width: 1024px) {
     .homeTitle{
         margin-top: 10vh;
